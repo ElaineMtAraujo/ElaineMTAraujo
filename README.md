@@ -1,7 +1,7 @@
 # Olá!! Me Chamo Elaine Araújo.
 
 🔍 Analista de Qualidade em Formação  
-🎓 Boot Camp TripleTen Brasil  
+🎓 BootCamp TripleTen Brasil  
 🌱 Em transição de carreira para a área de Qualidade de Software.   
 
 Atualmente, desenvolvendo habilidades em:
