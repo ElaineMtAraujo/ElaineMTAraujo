@@ -1,5 +1,4 @@
-Olá!! Me Chamo Elaine Araújo.
-##
+# Olá!! Me Chamo Elaine Araújo.
 
 🔍 Analista de Qualidade em Formação  
 🎓 Boot Camp TripleTen Brasil  
